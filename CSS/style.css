@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Lobster&display=swap');
+
+/* @font-face { */
+    /* font-family: Blacklight; */
+    /* src: url(../media/fonts/blacklight.ttf); (if there is a space in link, put ' ' to work */
+/* } */
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.rectangle {
+    display: block;
+    width: auto;
+    height: 20rem;
+    background: rgb(94, 187, 190);
+   
+    
+   }
+
+.test1{
+    color: rgba(10, 10, 10, 0.862);
+    shape-margin: 100;
+    text-align: center;
+    line-height: normal;
+    font-size: 45px;
+    position: absolute;
+    top:25%;
+    
+    
+    /* style="margin: auto; font-size: 45px; position: center; left:80px; top:200px; */
+}
+
+.musiciansname{
+    background-color: rgb(24, 77, 93);
+    text-align: center;
+    padding: auto;
+    color: aquamarine;
+    
+
+}
+
+body{
+    background-color: aquamarine;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    font-family: 'Comfortaa', cursive;
+    
+}
+
+
+audio{
+    display: block;
+}
+
+.sneakerpimp{
+position: absolute;
+right: 25%;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body { background-image:url('../Media/images/blue\ sparkle.gif'); background-repeat:repeat; }
